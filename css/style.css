@@ -37,7 +37,7 @@ body main> div.main {
 } 
 
 body .principal{
-    margin-top: 90px;
+    margin-top: 70px;
 }
 
 body footer {
@@ -79,7 +79,7 @@ body footer a:hover{
 
 
 .bannerGaviao{
-    height: 50vh;
+    height: 60vh;
     background: linear-gradient(180deg, rgba(0, 0, 0, 0.16) 0%, rgba(0, 0, 0, 0.8) 100%), url('../img/gaviao.jfif');
     background-position: top right;
     background-repeat: no-repeat;
