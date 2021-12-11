@@ -86,6 +86,14 @@ body footer a:hover{
     background-size: cover;
 }
 
+.bannerShangChi{
+    height: 60vh;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.16) 0%, rgba(0, 0, 0, 0.8) 100%), url('../img/Shang.jfif');
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 @media(min-width: 500px){
     .iframe{
         height: 650px
