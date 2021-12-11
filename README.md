@@ -27,7 +27,7 @@ git clone https://github.com/thiagodorea/javaScript.git
 ### :sparkles: Sobre
 Projeto em Mobile First
 #### Hospedado
-https://sessaopipoca.netlify.app/gaviao_arqueiro.html
+https://sessaopipoca.netlify.app
 
 ![image](https://user-images.githubusercontent.com/60205208/145689772-ea8cd574-bcf2-4465-b42a-cf416e2d8316.png)
 
