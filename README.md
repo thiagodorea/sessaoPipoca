@@ -1,4 +1,4 @@
-<h1 align="center">:customs: Checkpoint3</h1>
+<h1 align="center">:customs: Sessão Pipoca</h1>
 
 <div align="center">
 <img style="display: block; margin: auto;" alt="versão" src="https://img.shields.io/badge/Vers%C3%A3o-1.0.0-blue?style=plastic&logo=exercism">
@@ -8,7 +8,6 @@
 </div>
 
 
-<h2 align="center">Atividade de conclusão de CTD - FrontEnd 1. </h2>
 
 <p align="center">
  <a href="#sparkles-come%C3%A7ando">Começando</a> • 
